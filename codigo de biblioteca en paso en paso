@@ -1,0 +1,10 @@
+# Gestor de Biblioteca
+**Autor:** Tu Nombre
+
+## Descripción
+Este software permite gestionar libros de una biblioteca: agregar, eliminar, listar y guardar datos de manera persistente. Implementa la arquitectura MVC y una interfaz gráfica profesional.
+
+## Cómo ejecutar
+1. Abrir el proyecto en VS Code o cualquier IDE Java.
+2. Compilar todas las clases.
+3. Ejecutar `Main.java`.

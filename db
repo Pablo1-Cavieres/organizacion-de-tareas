@@ -1,0 +1,10 @@
+# GestorBiblioteca
+**Autor:** Techno
+
+## Descripción
+GestorBiblioteca es un sistema que permite administrar libros, usuarios y préstamos en una biblioteca. Permite registrar, buscar y gestionar préstamos de manera sencilla.
+
+## Cómo ejecutar
+1. Abrir el proyecto en tu IDE favorito (Eclipse, IntelliJ, NetBeans).  
+2. Ejecutar la clase `Main.java`.  
+3. Seguir las instrucciones en la consola para usar el sistema.
